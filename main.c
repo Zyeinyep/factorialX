@@ -8,7 +8,6 @@
 2
   
 >>> freecodecamp.find("e")
-  
  
 2
 
