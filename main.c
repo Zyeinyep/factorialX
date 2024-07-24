@@ -6,8 +6,6 @@
 >>> freecodecamp.count("C")
   
 2
-
-  
   
 >>> freecodecamp.find("e")
 2
