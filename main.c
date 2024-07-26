@@ -32,8 +32,8 @@ True
 False
 
 >>> freecodecamp.isnumeric()
-False
-
+Fals
+ 
 >>> freecodecamp.isprintable()
 True
 
